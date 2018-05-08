@@ -1,4 +1,4 @@
-# Hello CSS Grid
+# CSS Grid
 
 ![screenshot](screenshot.png)
 
